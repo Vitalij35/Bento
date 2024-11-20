@@ -65,15 +65,15 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Sheets',
-			icon: 'trello',
-			link: 'https://docs.google.com/spreadsheets',
+			name: 'Music',
+			icon: 'music',
+			link: 'https://music.youtube.com',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
+			name: 'Sheets',
 			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			link: 'https://docs.google.com/spreadsheets',
 		},
 		{
 			id: '5',
