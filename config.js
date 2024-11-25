@@ -52,15 +52,15 @@ const CONFIG = {
 
 	firstButtonsContainer: [
 		{
-			id: '1',
+			id: '2',
 			name: 'Youtube',
 			icon: 'youtube',
 			link: 'https://youtube.com/',
 		},
 		{
-			id: '2',
+			id: '1',
 			name: 'Google',
-			icon: 'google',
+			icon: 'search',
 			link: 'https://google.com/',
 		},
 		{
@@ -72,13 +72,13 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Sheets',
-			icon: 'calendar',
+			icon: 'table',
 			link: 'https://docs.google.com/spreadsheets',
 		},
 		{
 			id: '5',
 			name: 'GPT',
-			icon: 'glasses',
+			icon: 'brain-circuit',
 			link: 'https://chatgpt.com',
 		},
 		{
@@ -135,38 +135,38 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'archive',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'osu!',
+					link: 'https://osu.ppy.sh/users/36511927',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'RuTracker',
+					link: 'https://rutracker.net/forum/index.php',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Rezka',
+					link: 'https://rezka.ag/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: '',
+					link: 'https://rutracker.net/forum/index.php',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'graduation-cap',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'NZ',
+					link: 'https://nz.ua/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'ILearn',
+					link: 'https://ilearn.org.ua/',
 				},
 				{
 					name: 'Trello',
