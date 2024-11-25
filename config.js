@@ -64,13 +64,13 @@ const CONFIG = {
 			link: 'https://google.com/',
 		},
 		{
-			id: '3',
+			id: '4',
 			name: 'Music',
 			icon: 'music',
 			link: 'https://music.youtube.com',
 		},
 		{
-			id: '4',
+			id: '6',
 			name: 'Sheets',
 			icon: 'table',
 			link: 'https://docs.google.com/spreadsheets',
@@ -82,10 +82,10 @@ const CONFIG = {
 			link: 'https://chatgpt.com',
 		},
 		{
-			id: '6',
-			name: 'Twich',
-			icon: 'twich',
-			link: 'https://twich.com/',
+			id: '3',
+			name: 'Gmail',
+			icon: 'mail',
+			link: 'https://mail.google.com/',
 		},
 	],
 
