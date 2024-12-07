@@ -151,8 +151,12 @@ const CONFIG = {
 					link: 'https://rezka.ag/',
 				},
 				{
-					name: '',
-					link: 'https://rutracker.net/forum/index.php',
+					name: 'Github',
+					link: 'https://github.com',
+				},
+				{
+					name: 'Hostetski',
+					link: 'https://htk.ge/clientarea.php',
 				},
 			],
 		},
